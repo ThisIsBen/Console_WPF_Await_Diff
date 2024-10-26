@@ -12,7 +12,8 @@ This program is used to check which thread runs the code after await in Console 
 
 
 # In a Console program: The thread that runs the code before/after the await will not be the same.
-![image](https://github.com/user-attachments/assets/759fedfa-603d-43db-aeac-ccb1e8fc3303)
+![image](https://github.com/user-attachments/assets/d27dfa24-7286-4f1c-867d-e353f614a3e2)
+
 
 
 
